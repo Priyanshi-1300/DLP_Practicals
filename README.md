@@ -1,1 +1,1 @@
-# DLP_Practical
+# DLP_Practicals
